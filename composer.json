@@ -77,5 +77,10 @@
         "test": [
             "phpunit tests"
         ]
+    },
+    "extra": {
+      "branch-alias": {
+        "dev-master": "0.1.0"
+      }
     }
 }
